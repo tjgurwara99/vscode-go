@@ -86,6 +86,15 @@ export const allToolsInformation: { [key: string]: Tool } = {
 		description: 'Stubs for interfaces',
 		defaultVersion: 'v1.1.0'
 	},
+	'constr': {
+		name: 'constr',
+		importPath: 'github.com/tjgurwara99/constr',
+		modulePath: 'github.com/tjgurwara99/constr',
+		replacedByGopls: false,
+		isImportant: false,
+		description: 'Stubs for interfaces',
+		defaultVersion: 'v0.0.1'
+	},
 	'gotype-live': {
 		name: 'gotype-live',
 		importPath: 'github.com/tylerb/gotype-live',

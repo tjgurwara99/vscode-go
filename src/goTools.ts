@@ -161,7 +161,8 @@ export function getConfiguredTools(
 		'impl',
 		'fillstruct',
 		'goplay',
-		'godoctor'
+		'godoctor',
+		'constr'
 	]) {
 		maybeAddTool(name);
 	}

@@ -14,6 +14,7 @@ export { getCurrentGoRoot } from './getCurrentGoRoot';
 export { extractFunction, extractVariable } from '../goDoctor';
 export { runFillStruct } from '../goFillStruct';
 export { implCursor } from '../goImpl';
+export { constrCursor } from '../goConstr';
 export { addTags, removeTags } from '../goModifytags';
 export * from '../goTest';
 export { installTools } from './installTools';
